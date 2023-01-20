@@ -21,6 +21,31 @@
 This was a 12-week industry sponsored project partnered with my school. This project was completed in a team of 5 developers.
 Our client wanted to digitize their manual method of inputting and managing client data. Having previously used Excel Spreadsheets to store records, our team designed a webapp that allowed lab technicians login/signup and input data through a front-end, storing records into a database. Users could also edit past records and visualize aggregate data. 
 
+## My Contributions
+- Designed and implemented relational database solution to store client data and handle queries on the back-end
+- Used Figma to design mockups for client approval
+- Integrated front-end forms to integrate with database and backend
+- Created authentication features for secure login/signup
+- Hosted on AWS for client demo usage
+- Applied Agile workflow for continuous updates/deliverables
+
+### High level architecture
+<a>
+    <img src="images/structure_diagram.png" alt="Logo" height="250">
+</a>
+
+<a>
+    <img src="images/sample_home.png" alt="Logo" height="350">
+</a>
+
+<a>
+    <img src="images/loginSamplePage.png" alt="Logo" height="350">
+</a>
+
+<a>
+    <img src="images/deployment_aws.png" alt="Logo" height="450">
+</a>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
