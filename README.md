@@ -15,6 +15,12 @@
 - [![Postgres][postgresql]][postgres-url]
 - [![Expressjs][expressjs]][express-url]
 
+## About
+**Note: Code is unavailable for view due to signed NDA**
+
+This was a 12-week industry sponsored project partnered with my school. This project was completed in a team of 5 developers.
+Our client wanted to digitize their manual method of inputting and managing client data. Having previously used Excel Spreadsheets to store records, our team designed a webapp that allowed lab technicians login/signup and input data through a front-end, storing records into a database. Users could also edit past records and visualize aggregate data. 
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
