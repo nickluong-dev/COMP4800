@@ -34,6 +34,7 @@ Our client wanted to digitize their manual method of inputting and managing clie
     <img src="images/structure_diagram.png" alt="Logo" height="250">
 </a>
 
+## Sample Images
 <a>
     <img src="images/sample_home.png" alt="Logo" height="350">
 </a>
@@ -45,6 +46,10 @@ Our client wanted to digitize their manual method of inputting and managing clie
 <a>
     <img src="images/deployment_aws.png" alt="Logo" height="450">
 </a>
+
+## Improvements
+- Currently our Database is within docker which is not ideal. In the case that docker goes down, our database could be lost or currupted. In that case, the database should be hosted on AWS using RDS or Aurora. Alternatively, the client could internally host their database on a local server. 
+- Database migration script is ran everytime the application spins up which is not best practice. Future iterations should look to libraries such as knex for better migration services. 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
