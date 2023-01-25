@@ -24,7 +24,7 @@ Our client wanted to digitize their manual method of inputting and managing clie
 ## My Contributions
 - Designed and implemented relational database solution to store client data and handle queries on the back-end
 - Used Figma to design mockups for client approval
-- Integrated front-end forms to integrate with database and backend
+- Integrated front-end forms to work with database and backend
 - Created authentication features for secure login/signup
 - Hosted on AWS for client demo usage
 - Applied Agile workflow for continuous updates/deliverables
